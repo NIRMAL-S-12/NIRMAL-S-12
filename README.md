@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nirmalsrinivasan6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-Do2fjTCCwn-V_tEluabR5L8lu3lTouG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19gtpreOYXNatvzPZj6aFHQtEG_CEzwfq/view?usp=sharing)
 
 - ⚡ Fun fact **Starts answering even without knowing the question**
 
