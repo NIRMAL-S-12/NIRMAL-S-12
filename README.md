@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **nirmalsrinivasan2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19gtpreOYXNatvzPZj6aFHQtEG_CEzwfq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1In12IVoMRrZThdy__9tw7d0ohV62mhZu/view?usp=sharing)
 
 - ⚡ Fun fact **Starts answering even without knowing the question**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nirmal s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal s" height="30" width="40" /></a>
-<a href="https://instagram.com/nirmal_.s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_.s_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nirmal-s-3s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal s" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nirmal_.s_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_.s_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMnbmbF4JOBQlWdp-Rx9k5Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="acodebynirmal" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/nirmal_s12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nirmal_s12" height="30" width="40" /></a>
 </p>
