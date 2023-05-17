@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Alphakart](https://github.com/NIRMAL-S-12/alphakart)
 
-- 📫 How to reach me **nirmalsrinivasan6@gmail.com**
+- 📫 How to reach me **nirmalsrinivasan2002@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19gtpreOYXNatvzPZj6aFHQtEG_CEzwfq/view?usp=sharing)
 
